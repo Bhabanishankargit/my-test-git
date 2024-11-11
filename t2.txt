@@ -1,9 +1,0 @@
-welcome
-boy
-pune
-how are you
-Goa
-I am writting something else
-some merge conflict
-hello
-git
